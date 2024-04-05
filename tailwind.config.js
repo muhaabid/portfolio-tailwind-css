@@ -8,6 +8,9 @@ module.exports = {
       padding: "16px",
     },
     extend: {
+      fontFamily: {
+        logo: "Micro 5",
+      },
       colors: {
         primary: "#14b8a6",
         secondary: "#64748b",
