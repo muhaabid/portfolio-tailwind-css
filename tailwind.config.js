@@ -9,7 +9,7 @@ module.exports = {
     },
     extend: {
       fontFamily: {
-        logo: "Micro 5",
+        logo: ["Micro 5", "sans-serif"],
       },
       colors: {
         primary: "#14b8a6",
